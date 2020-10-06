@@ -1,2 +1,3 @@
-# Fpv-Quad
-# Whoop and quad sizes are in dirent pulls
+# Fpv Quad
+# Whoop and quad sizes are in difrent branches. 
+
